@@ -1,0 +1,24 @@
+{
+    "testObjects": [
+        {
+            "id": "plaza",
+            "ratio": "2"
+        },
+        {
+            "id": "pool",
+            "ratio": "4"
+        },
+        {
+            "id": "stadium",
+            "ratio": "3"
+        }
+    ],
+
+    "colors": {
+        "id": "valore"
+    },
+    "om_points": "value",
+    "parameters": {
+        "id": "valore"
+    }
+}
